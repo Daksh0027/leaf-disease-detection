@@ -154,3 +154,7 @@ with st.expander("📊 Model Training Performance (Click to Expand)"):
         st.image("training_results.png", caption="Training vs Validation Accuracy/Loss", use_container_width=True)
     else:
         st.warning("⚠ Training results not found. Run train_model.py first to generate graphs.")
+
+
+
+# --- IGNORE ---# 
